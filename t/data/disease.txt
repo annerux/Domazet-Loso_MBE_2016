@@ -1,0 +1,21 @@
+phylostrata	phylostrata_name	Functional term	quant	sample	hit	total
+1	Cellular organisms	disease_genes	970	8285	1760	22845
+2	Eukaryota	disease_genes	357	5633	1760	22845
+3	Opisthokonta	disease_genes	39	600	1760	22845
+4	Holozoa	disease_genes	32	321	1760	22845
+5	Metazoa	disease_genes	52	382	1760	22845
+6	Eumetazoa	disease_genes	122	2007	1760	22845
+7	Bilateria	disease_genes	58	868	1760	22845
+8	Deuterostomia	disease_genes	4	93	1760	22845
+9	Chordata	disease_genes	13	244	1760	22845
+10	Olfactores	disease_genes	4	79	1760	22845
+11	Craniata	disease_genes	34	588	1760	22845
+12	Euteleostomi	disease_genes	44	580	1760	22845
+13	Tetrapoda	disease_genes	4	106	1760	22845
+14	Amniota	disease_genes	8	157	1760	22845
+15	Mammalia	disease_genes	8	335	1760	22845
+16	Eutheria	disease_genes	8	830	1760	22845
+17	Boreoeutheria	disease_genes	1	285	1760	22845
+18	Euarchontoglires	disease_genes	1	124	1760	22845
+19	Primates	disease_genes	1	1328	1760	22845
+
