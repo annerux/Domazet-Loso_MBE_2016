@@ -1,0 +1,14 @@
+phylostrata	phylostrata_name	Functional term	quant	sample	hit	total
+1	CellularLife	Ectoderm_term	474	928	524	1020
+2	Eukaryota	Ectoderm_term	24	36	524	1020
+3	Opsithokonta	Ectoderm_term	5	13	524	1020
+4	Metazoa	Ectoderm_term	10	25	524	1020
+5	Eumetazoa	Ectoderm_term	1	4	524	1020
+6	Bilateria	Ectoderm_term	2	3	524	1020
+7	Protostomia	Ectoderm_term	0	0	524	1020
+8	Arthropoda	Ectoderm_term	1	1	524	1020
+9	Pancrustacea	Ectoderm_term	1	2	524	1020
+10	Insecta	Ectoderm_term	1	2	524	1020
+11	Diptera	Ectoderm_term	1	1	524	1020
+12	DMel	Ectoderm_term	4	5	524	1020
+
