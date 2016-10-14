@@ -1,0 +1,14 @@
+phylostrata	phylostrata_name	Functional term	quant	sample	hit	total
+1	cellular_organisms	ectoderm_term	10680	18095	24535	38627
+2	Eukaryota	ectoderm_term	6215	9935	24535	38627
+3	Opisthokonta	ectoderm_term	942	1400	24535	38627
+4	Metazoa	ectoderm_term	2167	2975	24535	38627
+5	Eumetazoa	ectoderm_term	481	665	24535	38627
+6	Bilateria	ectoderm_term	814	1163	24535	38627
+7	Protostomia	ectoderm_term	229	325	24535	38627
+8	Arthropoda	ectoderm_term	504	674	24535	38627
+9	Pancrustacea	ectoderm_term	217	288	24535	38627
+10	Insecta	ectoderm_term	881	1140	24535	38627
+11	Diptera	ectoderm_term	1152	1599	24535	38627
+12	Drosophila	ectoderm_term	253	368	24535	38627
+

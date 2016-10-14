@@ -23,7 +23,7 @@ file <- args$args
 #< set interface
 
 # Read table
-table <- read.table(opt$input, header=TRUE, sep="\t")
+table <- read.table(opt$input, header=TRUE, sep="\t", stringsAsFactors = FALSE)
 
 # get columns from table
 phylostrata = table$phylostrata

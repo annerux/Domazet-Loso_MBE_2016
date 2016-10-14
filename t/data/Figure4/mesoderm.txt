@@ -1,0 +1,13 @@
+phylostrata	phylostrata_name	Functional term	quant	sample	hit	total
+1	cellular_organisms	mesoderm_term	4478	18095	8630	38627
+2	Eukaryota	mesoderm_term	2236	9935	8630	38627
+3	Opisthokonta	mesoderm_term	273	1400	8630	38627
+4	Metazoa	mesoderm_term	538	2975	8630	38627
+5	Eumetazoa	mesoderm_term	114	665	8630	38627
+6	Bilateria	mesoderm_term	222	1163	8630	38627
+7	Protostomia	mesoderm_term	60	325	8630	38627
+8	Arthropoda	mesoderm_term	117	674	8630	38627
+9	Pancrustacea	mesoderm_term	55	288	8630	38627
+10	Insecta	mesoderm_term	176	1140	8630	38627
+11	Diptera	mesoderm_term	287	1599	8630	38627
+
