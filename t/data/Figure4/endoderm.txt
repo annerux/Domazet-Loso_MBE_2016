@@ -1,0 +1,14 @@
+phylostrata	phylostrata_name	Functional term	quant	sample	hit	total
+1	cellular_organisms	endoderm_term	3648	18095	6753	38627
+2	Eukaryota	endoderm_term	1823	9935	6753	38627
+3	Opisthokonta	endoderm_term	228	1400	6753	38627
+4	Metazoa	endoderm_term	335	2975	6753	38627
+5	Eumetazoa	endoderm_term	84	665	6753	38627
+6	Bilateria	endoderm_term	152	1163	6753	38627
+7	Protostomia	endoderm_term	44	325	6753	38627
+8	Arthropoda	endoderm_term	69	674	6753	38627
+9	Pancrustacea	endoderm_term	20	288	6753	38627
+10	Insecta	endoderm_term	107	1140	6753	38627
+11	Diptera	endoderm_term	188	1599	6753	38627
+12	Drosophila	endoderm_term	55	368	6753	38627
+
